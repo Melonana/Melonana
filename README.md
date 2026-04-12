@@ -8,8 +8,8 @@ Today I'm back building — REST APIs, cloud infrastructure, and automated pipel
 
 🛠️ Tech Stack
 -----------------------------------
-Languages: Java, Python, SQL, Bash
-Frameworks & Tools: Spring Boot, Docker, Git, Linux
+Languages: Java, Python, SQL, Bash </br>
+Frameworks & Tools: Spring Boot, Docker, Git, Linux </br>
 Cloud & DevOps: AWS, GitHub Actions
 
 🚀 Featured Projects
