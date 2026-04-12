@@ -17,11 +17,11 @@ Cloud & DevOps: AWS, GitHub Actions
 🎓 Student Management REST API
 A production-style RESTful API built with Spring Boot and Java 17 for managing student records.
 Full CRUD operations, proper HTTP status codes, JSON request/response handling.
-Java Spring Boot REST API Gradle
+
 
 🍷 Wine Quality Analysis
 Machine learning analysis of wine quality using Python, Pandas, and Scikit-learn.
-Python Pandas Scikit-learn Jupyter Notebook
+
 
 📜 Certifications
 --------------------
