@@ -33,4 +33,4 @@ Machine learning analysis of wine quality using Python, Pandas, and Scikit-learn
 Connect With Me 🌍
 
 LinkedIn: Emmanuel Umunnakwe
-Thank you for visiting my profile! I look forward to connecting and collaborating on exciting future data challenges.
+Thank you for visiting my profile! I look forward to connecting and collaborating on exciting challenges.
