@@ -1,7 +1,10 @@
 Hi, I'm Emmanuel 👋
+
 I hold a BSc in Software Engineering, but my path took an interesting turn into digital marketing and data analytics — where I spent years using data to solve real business problems and help companies make better decisions. That experience didn't pull me away from software engineering, it brought me back to it with a sharper perspective on why what we build actually matters.
 Today I'm back building — REST APIs, cloud infrastructure, and automated pipelines. I'm focused on writing clean, scalable backend code and getting it shipped to production the right way.
-📍 Toronto, Ontario, Canada
+
+📍 Location: Toronto, Ontario, Canada
+
 
 🛠️ Tech Stack
 -----------------------------------
