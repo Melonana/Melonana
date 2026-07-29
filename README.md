@@ -14,6 +14,7 @@ Cloud & DevOps: AWS, GitHub Actions
 
 🚀 Featured Projects
 -----------------------------------
+🎓 Student Management REST API
 TrueNorth Enterprise Banking Data Platform
 A simulated enterprise banking platform demonstrating backend software engineering and data engineering concepts using Java, Spring Boot, Python, PostgreSQL, and SQL.
 
