@@ -14,6 +14,9 @@ Cloud & DevOps: AWS, GitHub Actions
 
 🚀 Featured Projects
 -----------------------------------
+TrueNorth Enterprise Banking Data Platform
+A simulated enterprise banking platform demonstrating backend software engineering and data engineering concepts using Java, Spring Boot, Python, PostgreSQL, and SQL.
+
 🎓 Student Management REST API
 A production-style RESTful API built with Spring Boot and Java 17 for managing student records.
 Full CRUD operations, proper HTTP status codes, JSON request/response handling.
